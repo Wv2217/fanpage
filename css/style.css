@@ -1,9 +1,11 @@
 html {
     height: 100%;
+    color:#9b1b1b;
 }
 
 body {
     height: 100%;
+    background-color:#61429b;
     
 }
 a {
@@ -16,4 +18,13 @@ a {
 .social-image{
     width: 30px;
     margin: 15px;
+}
+
+a{
+    color:#9b1b1b;
+}
+
+#cole{
+    width:100px;
+    
 }
